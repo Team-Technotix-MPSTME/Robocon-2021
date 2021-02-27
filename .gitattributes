@@ -1,0 +1,4 @@
+Defense_Robot_STEP.STEP filter=lfs diff=lfs merge=lfs -text
+Defense_Robot_STL.STL filter=lfs diff=lfs merge=lfs -text
+Throwing_Robot_STEP.STEP filter=lfs diff=lfs merge=lfs -text
+Throwing_Robot_STL.STL filter=lfs diff=lfs merge=lfs -text
